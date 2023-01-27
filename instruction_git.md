@@ -8,3 +8,7 @@
 
     git init
 
+Для замены редактора по умолчанию в git необходимо ввести команду (обратите внимание на слеш)
+
+    git config --global core.editor c:/windows/system32/notepad.exe
+
